@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "zdarzenie": "zator",
+        "obiekt": "sieć sanitarna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46349000930786,
+          54.50212817775681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": "pitch",
+        "marker-size": "medium",
+        "zdarzenie": "awaria",
+        "obiekt": "sieć sanitarna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55268955230713,
+          54.47622210026352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "zdarzenie": "awaria",
+        "obiekt": "sieć sanitarna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.174583911895752,
+          54.6255868811247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obiekt": "przyłącze kanalizacyjne",
+        "zdarzenie": "zator",
+        "marker-symbol": "pitch",
+        "marker-size": "medium",
+        "marker-color": "#ffff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.37011694908142,
+          54.65018784316132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zdarzenie": "odory",
+        "obiekt": "sieć sanitarna",
+        "marker-symbol": "pitch",
+        "marker-size": "medium",
+        "marker-color": "#808080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39787244796753,
+          54.58694788412739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "zdarzenie": "bezumowne odprowadzanie ścieków",
+        "obiekt": "sieć sanitarna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.429469254112245,
+          54.48254901037993
+        ]
+      }
+    }
+  ]
+}
